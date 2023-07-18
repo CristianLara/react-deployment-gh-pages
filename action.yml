@@ -1,6 +1,6 @@
 name: 'Build and Deploy React app to GitHub Pages'
 description: 'GitHub Action to build and deploy React app in gh-pages branch.'
-author: 'omkartapale'
+author: 'cristianlara'
 branding:
   color: 'yellow'
   icon: code
